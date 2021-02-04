@@ -1,6 +1,6 @@
 # BullTricker
 
-![title](img/weclome.png)
+![title](img/weclome.png#center)
 
 
 ![title](img/board.png)
@@ -19,6 +19,11 @@
 - SDL2 library.
 
 # Running
+
+To check that SDL2 is working tape the comand 
+```
+  $ make check
+```
 
 compile with 'make'
 ```

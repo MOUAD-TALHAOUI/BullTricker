@@ -6,3 +6,6 @@ run: bulltriker
 
 clean:
 	rm -f bulltriker
+check:
+		gcc main.c -w -lSDL2 -o ss
+		./ss
