@@ -39,9 +39,7 @@ clean with 'make clean'
 ```
   $ make clean
 ```
-# Contributing
 
-Contributions are very welcome. 
 
 
 
